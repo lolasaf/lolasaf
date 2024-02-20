@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walaa or sometimes Lola</h1>
 <h3 align="center">Mechanical engineer and lifelong student who loves to dabble in code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolasaf" alt="lolasaf" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=lolasaf&theme=onedark" alt="lolasaf" /></a> </p>
 
 - 🔭 I’m currently a student at [42 Berlin](https://42berlin.de/)
 
