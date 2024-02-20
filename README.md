@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=lolasaf&theme=onedark" alt="lolasaf" /></a> </p>
 
-- 🔭 I’m currently a student at [42 Berlin](https://42berlin.de/)
-
-- ⚡ I’m looking for help with my Fintech [project](https://www.tapp.ae/)
-
-- 📫 You can reach me on [my Linkedin](https://www.linkedin.com/in/walaaelsafadi/)
+[42 Berlin](https://42berlin.de/) student
+Aspiring Entrepreneur looking for help with a fintech [project](https://www.tapp.ae/)
+Message me on [my Linkedin](https://www.linkedin.com/in/walaaelsafadi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
