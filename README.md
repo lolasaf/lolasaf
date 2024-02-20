@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Walaa or sometimes Lola</h1>
 <h3 align="center">Mechanical engineer and lifelong student who loves to dabble in code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lolasaf&label=Profile%20views&color=0e75b6&style=flat" alt="lolasaf" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolasaf" alt="lolasaf" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [42 school's curriculum](https://42berlin.de/)
+- 🔭 I’m currently a student at [42 Berlin](https://42berlin.de/)
 
-- 🤝 I’m looking for help with [a startup project](https://www.tapp.ae/)
+- ⚡ I’m looking for help with my Fintech [project](https://www.tapp.ae/)
 
-- 📫 You can reach me on my linkedin **https://www.linkedin.com/in/walaaelsafadi/**
+- 📫 You can reach me on [my Linkedin](https://www.linkedin.com/in/walaaelsafadi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
