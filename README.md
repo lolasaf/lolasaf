@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=lolasaf&theme=onedark" alt="lolasaf" /></a> </p>
 
-🔭 [42 Berlin](https://42berlin.de/) student
-
 👩🏻‍🎓 BE in Mechanical Engineering - American University of Beirut
+
+🔭 [42 Berlin](https://42berlin.de/) student
 
 ⚡ Aspiring Entrepreneur looking for help with a fintech [project](https://www.tapp.ae/)
 
