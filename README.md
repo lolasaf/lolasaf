@@ -5,6 +5,8 @@
 
 🔭 [42 Berlin](https://42berlin.de/) student
 
+👩🏻‍🎓 BE in Mechanical Engineering - American University of Beirut
+
 ⚡ Aspiring Entrepreneur looking for help with a fintech [project](https://www.tapp.ae/)
 
 📫 Message me on [my Linkedin](https://www.linkedin.com/in/walaaelsafadi/)
