@@ -7,7 +7,7 @@
 
 🔭 [42 Berlin](https://42berlin.de/) student
 
-⚡ Aspiring Entrepreneur looking for help with a fintech [project](https://www.tapp.ae/)
+⚡ Aspiring Entrepreneur looking for help with a fintech [project](https://www.seentech.sa/)
 
 📫 Message me on [my Linkedin](https://www.linkedin.com/in/walaaelsafadi/)
 
