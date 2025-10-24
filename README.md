@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Walaa (sometimes Lola)</h1>
+<h1 align="center">Hi 👋 I'm Walaa "Lola"</h1>
 <h3 align="center">Mechanical engineer and lifelong student who loves to dabble in code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=lolasaf&theme=onedark" alt="lolasaf" /></a> </p>
