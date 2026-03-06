@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://42berlin.de/">42 Berlin</a> •
   <a href="https://www.linkedin.com/in/walaaelsafadi/">LinkedIn</a> •
   <a href="https://www.seentech.sa/">SEEN</a>
 </p>
@@ -16,7 +15,7 @@
 
 ### Background
 
-- BE in Mechanical Engineering — American University of Beirut
+- BE in Mechanical Engineering - American University of Beirut
 - Computer Science Diploma - 42 Berlin
 - Interested in backend, systems, product, AI and digital payments
 
